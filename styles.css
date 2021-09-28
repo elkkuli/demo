@@ -1,8 +1,15 @@
 body {
-	background: #BAF5E7 ;
+	background: #93F5BC ;
 }
 h1 {
-	color: #6FA89B;
+	color: #1D8F8E;
 	}
 	p {
-	color: #F5C9BA;}
+	color: #61C2C1;
+	}
+ol {
+	color: #C261AA;
+}
+ul {
+	color: #F3BBD2;
+}
