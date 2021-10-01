@@ -3,10 +3,15 @@ body {
 }
 h1 {
 	color: white;
+	text-align: center;
 	}
-	p {
+p {
 	color: green;
 	}
+h2 {
+	color: yellow;
+	font-size: 12px;
+}
 ol {
 	color: white;
 }
@@ -16,6 +21,9 @@ ul {
 .reunus {
 	border-width: 2px;
 	border-style: dotted;
+	color: yellow;
+	height: 100px;
+	width: 100px;
 }
 
 h1 {
@@ -23,12 +31,18 @@ h1 {
 }
 p {
 	font-size: 12px;
+	padding: 10px;
 }
 ol {
 	font-size: 10px;
+	list-style: lower-alpha;
+	padding: 10px;
+	margin: 10px;
 }
+
 ul {
-	font-size: 10px;
+  font-size: 10px;
+  list-style: square;
+  padding: 10px;
+  margin: 10px;
 }
-
-
