@@ -1,26 +1,27 @@
 body {
-	background: #93F5BC ;
+	background-color: #FAE0E1;
+	
 }
 	p {
-	color: #61C2C1;
+	color: #FA97B5;
 	}
 ol {
-	color: #C261AA;
+	color: #FA97B5;
 }
 ul {
-	color: #3397C2;
+	color: #FA97B5;
 }
-	
+
 .reunus {
-	border-width: 5px;
+	border-width: 3px;
 	border-style: dotted;
-	color: green;
-	height: 100px;
-	width: 200px;
+	color: #FA97B5;
+	height: 150px;
+	width: 150px;
+	text-align: center;
 }
 h1 {
 	font-size: 25px;
-	color: #1D8F8E;
-	text-align: center;
+	color: #E06E9D;
 	padding: 15px;
 	}
