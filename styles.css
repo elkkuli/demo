@@ -1,7 +1,14 @@
 body {
-	background-color: #FAE0E1;
-	
+	background-color: #FAE0E1;	
 }
+
+.kuva1 
+{
+
+  margin-left: center;
+  margin-right: center;
+  }
+
 {
 	figure-color: #E06E9D;
 }
@@ -19,17 +26,24 @@ ul {
 	border-width: 3px;
 	border-style: dotted;
 	color: #FA97B5;
-	height: 200px;
+	height: 100px;
 	width: 200px;
+	padding: 70px 0;
 	text-align: center;
+
+}
+.valkoinen {
+	color: white;
+}
+.pink {
+	color: pink;
+}
+.määrä {
+	color: pink;
 }
 h1 {
 	font-size: 25px;
 	color: #E06E9D;
 	}
-{
-	border-width: 20px;
-	border-style: solid;
-	color: pink;
-	border-radius: 5px;
-}
+
+	
