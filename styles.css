@@ -2,6 +2,9 @@ body {
 	background-color: #FAE0E1;
 	
 }
+{
+	figure-color: #E06E9D;
+}
 	p {
 	color: #FA97B5;
 	}
@@ -16,12 +19,17 @@ ul {
 	border-width: 3px;
 	border-style: dotted;
 	color: #FA97B5;
-	height: 150px;
-	width: 150px;
+	height: 200px;
+	width: 200px;
 	text-align: center;
 }
 h1 {
 	font-size: 25px;
 	color: #E06E9D;
-	padding: 15px;
 	}
+{
+	border-width: 20px;
+	border-style: solid;
+	color: pink;
+	border-radius: 5px;
+}
