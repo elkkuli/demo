@@ -1,49 +1,59 @@
 body {
-	background-color: #FAE0E1;	
+	background-color: #E5E3DE;	
 }
-
-.kuva1 
-{
-
-  margin-left: center;
-  margin-right: center;
-  }
-
-{
-	figure-color: #E06E9D;
+h1 {
+	font-size: 30px;
+	color: #665C44;
+	}
+h2 {
+	font-size: 20px;
+	color: #665C44;
 }
 	p {
-	color: #FA97B5;
+	color: #665C44;
 	}
-ol {
-	color: #FA97B5;
-}
 ul {
-	color: #FA97B5;
+	color: #665C44;
+	list-style-type: circle;
 }
 
 .reunus {
-	border-width: 3px;
+	border-width: 4px;
+	border-style: dashed;
+	border-radius: 50px;
+	color: #B3B1AD;
+	height: 80px;
+	width: 300px;
+	padding: 8px;
+	text-align: center;
+}
+.reunus2 {
+	border-width: 4px;
 	border-style: dotted;
-	color: #FA97B5;
-	height: 100px;
-	width: 200px;
-	padding: 70px 0;
+	color: #B3B1AD;
+	height: 80px;
+	width: 300px;
+	padding: 8px;
 	text-align: center;
 
 }
-.valkoinen {
-	color: white;
-}
-.pink {
-	color: pink;
-}
-.määrä {
-	color: pink;
-}
-h1 {
-	font-size: 25px;
-	color: #E06E9D;
-	}
+.reunus3 {
+	border-width: 4px;
+	border-style: dotted;
+	color: #B3B1AD;
+	height: 80px;
+	width: 300px;
+	padding: 8px;
+	text-align: center;
 
-	
+}
+.etusivukuvateksti{
+	padding-left: 150px;
+}
+
+.kuvateksti1{ 
+	padding-left:55px;
+	}
+.kuvateksti2{
+	padding-left:35px;
+}
