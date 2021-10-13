@@ -26,6 +26,7 @@ ul {
 	width: 300px;
 	padding: 8px;
 	text-align: center;
+	margin-left: 100px;
 }
 .reunus2 {
 	border-width: 4px;
@@ -56,4 +57,13 @@ ul {
 	}
 .kuvateksti2{
 	padding-left:35px;
+}
+
+.leipäteksti{
+	border-radius: 10px;
+	background-color: #FFEDDA;
+	margin: 5px;
+	width: 500px;
+	text-align: center;
+
 }
