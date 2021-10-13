@@ -15,6 +15,7 @@ h2 {
 ul {
 	color: #665C44;
 	list-style-type: circle;
+	margin-left: 50px;
 }
 
 .reunus {
@@ -24,9 +25,8 @@ ul {
 	color: #B3B1AD;
 	height: 80px;
 	width: 300px;
-	padding: 8px;
+	margin-left: 50px;
 	text-align: center;
-	margin-left: 100px;
 }
 .reunus2 {
 	border-width: 4px;
@@ -34,7 +34,7 @@ ul {
 	color: #B3B1AD;
 	height: 80px;
 	width: 300px;
-	padding: 8px;
+	margin-left: 50px;
 	text-align: center;
 
 }
@@ -44,7 +44,7 @@ ul {
 	color: #B3B1AD;
 	height: 80px;
 	width: 300px;
-	padding: 8px;
+	margin-left: 50px;
 	text-align: center;
 
 }
@@ -53,17 +53,23 @@ ul {
 }
 
 .kuvateksti1{ 
-	padding-left:55px;
+	padding-left:115px;
 	}
 .kuvateksti2{
-	padding-left:35px;
+	padding-left:85px;
 }
 
 .leipäteksti{
 	border-radius: 10px;
-	background-color: #FFEDDA;
+	background-color: #F9F7ED;
 	margin: 5px;
 	width: 500px;
 	text-align: center;
 
+}
+.kuva2 {
+	margin-left:50px;
+}
+.kuva3 {
+	margin-left:50px;
 }
