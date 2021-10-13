@@ -75,3 +75,15 @@ figure{
 .kuva3 {
 	margin-left:100px;
 }
+header {
+	background-color:#F0EEE9;
+	width:200px;
+}
+nav {
+	background-color:#F7EFDF;
+	width:200px;
+}
+section {
+	background-color: #FCF9F5;
+	width: 400px;
+}
