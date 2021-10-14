@@ -68,15 +68,52 @@ figure{
 header {
 	background-color:#F0EEE9;
 	width:200px;
+	text-align: center;
 }
-nav {
-	background-color:#F7EFDF;
-	width:200px;
-}
+
 section {
 	background-color: #FCF9F5;
 	width: 450px;
 }
 h3 {
 	color:#665C44;
+	font-size: 20px;
+}
+
+article {
+	float:left;
+}
+
+.navi {
+	float: left;
+	width: 30%;
+	padding: 20px;
+	background-color: blue;
+}
+.navi ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+.lista {
+	float: left;
+	padding: 20px;
+	width: 70%;
+	background-color: yellow;
+}
+.lista ul {
+	list-style-type: square;
+}
+osio::after {
+	content: "navi";
+	display: table;
+	clear: both;
+}
+
+.otsikko {
+	background-color: #DBD3BD;
+	padding: 20px;
+	text-align: center;
+	font-size: 35px;
+	color: white;
 }
