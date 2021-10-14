@@ -70,7 +70,6 @@ header {
 	width:200px;
 	text-align: center;
 }
-
 section {
 	background-color: #FCF9F5;
 	width: 450px;
@@ -89,7 +88,9 @@ article {
 	width: 33.33%;
 	padding: 30px;
 	height: 150px; 
-	background-color: #E6DAC5;
+	background-color: #F9F7ED;
+	margin-left: 50px;
+	font-size: 20px;
 }
 .navi ul {
 	list-style-type: none;
@@ -97,13 +98,20 @@ article {
 
 .lista {
 	float: left;
-	width: 33.33%;
-	padding: 10px;
-	height: 200px; 
-	font-size: 25px;
-	background-color: #DBC3BD;
-	margin-left:10px;
+	width: 66,7%;
+	padding: 20px;
+	height: 480px; 
+	background-color: #F9F7ED;
+	margin-left:40px;
 	text-align: center;
+}
+.lista p {
+	font-size: 15px;
+	text-align: center;
+}
+
+.lista b{
+	color: #665C44;
 }
 
 .osio {
@@ -113,10 +121,23 @@ article {
 	margin: 20px;
 }
 .otsikko {
-	background-color: #DBD3BD;
+	background-color: #EDEBE6;
 	padding: 20px;
-	width:100%;
+	width: 100%;
 	text-align: center;
-	font-size: 35px;
-	color: white;
 }
+.otsikko h1 {
+	font-size: 30px;
+}
+
+i {
+	color: #665C44;
+}
+
+a:link {
+	color: white;
+  }
+
+a:hover {
+	color: red;
+  }
