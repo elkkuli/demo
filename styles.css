@@ -94,22 +94,16 @@ article {
 	list-style-type: none;
 	padding: 0;
 }
-
 .lista {
-	float: left;
-	padding: 20px;
-	width: 70%;
 	background-color: yellow;
+	width:100%;
 }
-.lista ul {
-	list-style-type: square;
+.osio {
+	float:left;
+	width: 50%;
+	padding: 20px;
+	margin: 20px;
 }
-osio::after {
-	content: "navi";
-	display: table;
-	clear: both;
-}
-
 .otsikko {
 	background-color: #DBD3BD;
 	padding: 20px;
