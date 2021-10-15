@@ -83,17 +83,20 @@ article {
 	float:left;
 }
 
+* {box-sizing: border-box}
+
 .navi {
 	float: left;
-	width: 33,3%;
-	padding: 30px;
-	height: 150px; 
+	width: 20%;
+	height: 200px; 
 	background-color: #F9F7ED;
-	font-size: 20px;
+	font-size: 18px;
+	padding: 20px;
+
 }
 .navi ul {
 	list-style-type: none;
-	text-align: center;
+	display: inline;
 }
 
 .lista {
@@ -102,9 +105,10 @@ article {
 	padding: 20px;
 	height: 480px; 
 	background-color: #F9F7ED;
-	margin-left:40px;
+	margin-left:20px;
 	text-align: center;
 }
+
 .lista p {
 	font-size: 15px;
 	text-align: center;
