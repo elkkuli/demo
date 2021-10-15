@@ -1,4 +1,12 @@
 .row {
     background-color: black;
     color: white;
+    font-size: 25px;
+}
+h1 {
+    color: pink;
+    text-shadow: 2px 2px #ff0000;
+}
+p {
+    font-size: 15px;
 }
