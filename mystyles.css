@@ -1,51 +1,8 @@
-body {
-    background-color: #DDECFA;
-}
-img {
-    margin: 20px;
-}
-nav ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 100px;
-  }
-  
-nav li {
-    display: inline;
-  }
-
-.teksti {
-    text-align: center;
-    font-size: 25px;
-    font-family: Georgia, 'Times New Roman', Times, serif
+.navbar {
+    background-color: black;
+    color: white;
 }
 
-iframe {
-    display: block;
-    margin: 0 auto;
-}
-
-p {
-    text-align: center;
-}
-.pääkuva {
-    padding: 10px;
-
-}
-.työkokemus {
-    width: 300px;
-   
-}
-.työkokemus p {
-    color: black;
-    text-align: center;
-
-}
-
-.koulutus {
-    width: 400px;
-}
-
-.yhteystiedot {
-    width: 200px;
+ul {
+    list-style: none;
 }
