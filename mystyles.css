@@ -1,8 +1,10 @@
-.navbar {
-    background-color: black;
-    color: white;
+.jumbotron {
+    padding: 20px;
+    width: 500px;    
 }
-
-ul {
-    list-style: none;
+h1 {
+    padding: 10px;
+}
+.rounded-circle {
+    margin: 10px;
 }
