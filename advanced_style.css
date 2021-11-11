@@ -1,0 +1,8 @@
+.otsikko {
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 5px #82C6DA;
+    color: lightblue;
+    text-shadow: 1px 1px blue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
