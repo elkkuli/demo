@@ -14,46 +14,52 @@
   </head>
 
   <body>
-    <table class="table table-bordered">
+    <table class="table">
       <thead>
         <tr>
-          <th scope="col">Nimi</th>
-          <th scope="col">Harrastus</th>
-          <th scope="col">Sisä-/ulkolaji</th>
+          <th scope="col" colspan="2">Nimi</th>
+          <th scope="col" colspan="1">Harrastus</th>
+          <th scope="col" colspan="1">Sisä-/ulkolaji</th>
         </tr>
       </thead>
+
       <tbody>
        
         <tr>
           <td>Juhani</td>
+          <td> Veli 1 </td>
           <td>Viulunsoitto</td>
           <td rowspan="2">Sisä</td>
         </tr>
 
         <tr>
           <td>Tuomas</td>
+          <td> Veli 2 </td>
           <td>Voimistelu</td>
         </tr>
 
         <tr>
           <td>Aapo</td>
+          <td> Veli 3 </td>
           <td>Pyöräily</td>
           <td rowspan="3">Ulko</td>
         </tr>
         
         <tr>
           <td>Simeoni</td>
+          <td> Veli 4 </td>
           <td>Ratsastus</td>
         </tr>
 
         <tr>
           <td>Lauri</td>
+          <td> Veli 5 </td>
           <td>Frisbeegolf</td>
         </tr>
       </tbody>
     </table>
 
-    <form action="/action_page.php">
+    <form action="https://www.w3schools.com/action_page.php">
       <div class="row mb-4">
         <label class="col-sm-3 col-form-label" for="firstName">First Name:</label>
         <div class="col-sm-4">
@@ -73,9 +79,7 @@
             <input type="email" class="form-control" id="emailAddress" placeholder="Email Address" required>
         </div>
     </div>
-  </form>
-
-  <form>
+    
     <div class="form-group">
       <label for="exampleFormControlSelect1">Select</label>
       <select class="form-control" id="exampleFormControlSelect1"  style="width:200px">
@@ -86,12 +90,10 @@
         <option>Cinqo</option>
       </select>
     </div>
-    
-    <div class="form-group">
-      <label for="exampleFormControlTextarea1">Example text area</label>
-      <textarea class="form-control" id="exampleFormControlTextarea1" rows="4" width="80"></textarea>
-    </div>
-   
+
+    <label for="w3review">Example text area</label>
+    <br>
+    <textarea id="Example" name="Example" rows="4" cols="80"></textarea>
 
     <div class="form-check">
       <input class="form-check-input" type="checkbox" value="" id="defaultCheck1">

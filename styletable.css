@@ -1,12 +1,30 @@
 .table {
-  border-radius: 15px;
-  background: rgb(156, 187, 187);
-  padding: 20px;
-  width: 150px;
+  background: #C0DFDA;
+  border-radius: 30px;
+  margin: 30px;
+  width: 500px;
+  text-align: center;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 }
+
 th {
   text-align: center;
+  color: #418C80;
+  border: 2px;
+  border-color:black;
 }
+
 td {
-  text-align: center;
+  text-align: center;  
+  border: 2px;
+  border-color:black;
+  border-radius:0;
 }
+
+form {
+  width: 500px;
+  margin: 50px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+
