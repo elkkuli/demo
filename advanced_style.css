@@ -2,7 +2,28 @@
     border: 1px solid;
     padding: 10px;
     box-shadow: 5px 5px #82C6DA;
-    color: lightblue;
-    text-shadow: 1px 1px blue;
+    color: lightgreen;
+}
+
+.otsikko h1 {
+    font-size: 40px;
+    text-shadow: 1px 1px darkgreen;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.otsikko h2 {
+    font-size: 30px;
+    text-shadow: 1px 1px darkgreen;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.otsikko p {
+    font-size: 20px;
+    text-shadow: 1px 1px darkgreen;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.kuvateksti p {
+    font-size: 50px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
